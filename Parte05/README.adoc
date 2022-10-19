@@ -189,6 +189,7 @@ As graphical user interfaces são, como o nome indica, ferramentas de interaçã
 
 3 a)
 ~~~~
+
 Partindo do _exercício 2 a)_ implemente uma trackbar que permita ao utilizador definir o limite de binarização a ser utilizado na binarização.
 
 Ver instruções sobre https://docs.opencv.org/3.4/da/d6a/tutorial_trackbar.html[trackbars em opencv].
